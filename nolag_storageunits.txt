@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Fixed an issue regarding resource starting"}
+{"version":"2.0.2", "notes":"Added a way to buy the storage forever and some issues fixed"}
