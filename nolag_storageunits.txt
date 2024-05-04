@@ -1,1 +1,1 @@
-{"version":"2.0.5", "notes":"Raiding log & max inventory values"}
+{"version":"2.0.6", "notes":"Fixed security issues"}
