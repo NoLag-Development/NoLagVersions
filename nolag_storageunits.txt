@@ -1,1 +1,1 @@
-{"version":"2.0.6", "notes":"Fixed security issues"}
+{"version":"2.0.7", "notes":"Added society money adding and fixed stash security issue"}
