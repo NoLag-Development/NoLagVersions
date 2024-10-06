@@ -1,1 +1,1 @@
-{"version":"2.1.2", "notes":"Many improvements"}
+{"version":"2.1.3", "notes":"Many improvements"}
