@@ -1,1 +1,1 @@
-{"version":"2.1.6", "notes":"Many improvements"}
+{"version":"2.1.7", "notes":"IPL Concealment fixes & camera in mlos"}
