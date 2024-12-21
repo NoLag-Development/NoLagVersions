@@ -1,1 +1,1 @@
-{"version":"2.0.8", "notes":"Fixed transfer issue; Fixed lock issue"}
+{"version":"2.0.9", "notes":"Added support for tgg-banking"}
