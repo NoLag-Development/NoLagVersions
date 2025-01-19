@@ -1,1 +1,1 @@
-{"version":"2.1.7", "notes":"IPL Concealment fixes & camera in mlos"}
+{"version":"2.1.8", "notes":"New Furniture menu & Several issues fixed"}
