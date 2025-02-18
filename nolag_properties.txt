@@ -1,1 +1,1 @@
-{"version":"2.1.8", "notes":"New Furniture menu & Several issues fixed"}
+{"version":"2.1.9", "notes":"Blips & interaction points improvements read more in #changelog"}
