@@ -1,1 +1,1 @@
-{"version":"2.2.0", "notes":"Admin Menu Enhancements & Several issues fixed}
+{"version":"2.2.1", "notes":"UI/UX Improvements to creation & admin menu & Several issues fixed"}
