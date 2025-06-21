@@ -1,1 +1,1 @@
-{"version":"2.3.2", "notes":"Fixed Renters tab crash and rent termination; enhanced money‑handling with optional reason parameter"}
+{"version":"2.3.4", "notes":"Furniture menu improvements & QOL improvements/fixes", "discordLink":"https://discord.gg/teamsgg"}
